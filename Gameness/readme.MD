@@ -6,7 +6,7 @@
 - Group: [Link](t.me/KeoAirDropFreeNe)
 - Channel: [Link](t.me/KeoAirDropFreeNee)
 
-> Help me with your referral [Link](https://t.me/GamenessBot/app?startapp=ref_pWz0nf)
+> Help me with your referral [Link](https://t.me/GamenessBot/app?startapp=ref_nHezrm)
 
 ## 🚀 Getting Started
 
