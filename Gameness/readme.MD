@@ -37,9 +37,9 @@ To get started with the bot, follow these steps:
   "countdown": 86400,
   "country_time": "en-US",
   "DoTasks": true,
-  "PlayGames": true
+  "PlayGames": true,
+  "delayEachAccount": [1, 81]
 }
-
 ```
 
 ### 2. `datas.txt` 🗂️ - Get it from here >>> [Link](https://t.me/KeoAirDropFreeNe/257/6879)
