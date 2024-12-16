@@ -4,5 +4,5 @@
   "country_time": "en-US",
   "DoTasks": true,
   "PlayGames": true,
-  "delayEachAccount": [1, 1]
+  "delayEachAccount": [1, 81]
 }
