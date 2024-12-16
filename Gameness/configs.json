@@ -3,5 +3,6 @@
   "countdown": 86400,
   "country_time": "en-US",
   "DoTasks": true,
-  "PlayGames": true
+  "PlayGames": true,
+  "delayEachAccount": [1, 1]
 }
