@@ -1,8 +1,10 @@
 {
-  "limit": 100,
+  "howManyAccountsRunInOneTime": 100,
   "countdown": 86400,
   "country_time": "en-US",
-  "DoTasks": true,
-  "PlayGames": true,
-  "delayEachAccount": [1, 81]
+  "doTasks": true,
+  "playGames": true,
+  "delayEachAccount": [1, 1],
+  "cheating": true,
+  "referralCode": "ref_pWz0nf"
 }
