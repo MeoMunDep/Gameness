@@ -73,7 +73,7 @@ socks4://user:password@host:port
 socks5://user:password@host:port
 ```
 
-### 4. `cookies.txt` 🌐 - Get it from here >>> [Link](https://t.me/KeoAirDropFreeNe/257/14593)
+### 5. `cookies.txt` 🌐 - Get it from here >>> [Link](https://t.me/KeoAirDropFreeNe/257/14593)
 - If the data expired just get cookie again, query_id.../user... live longer.
 ```txt 
 session=xxx
