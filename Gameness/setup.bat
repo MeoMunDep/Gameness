@@ -1,5 +1,5 @@
 @echo off
-title Gameness Bot
+title Gameness Bot by @MeoMunDep
 color 0A
 
 cd ..
@@ -14,7 +14,7 @@ if exist node_modules (
 :MENU
 cls
 echo =================================================================
-echo    Gameness BOT SETUP AND RUN SCRIPT
+echo    Gameness BOT SETUP AND RUN SCRIPT by @MeoMunDep
 echo =================================================================
 echo.
 echo Current directory: %CD%
@@ -82,7 +82,7 @@ if exist "..\node_modules" (
 ) else (
     echo Using node_modules from current directory
 )
-cd gameness && node bot
+node meomundep
 pause
 goto MENU
 
